@@ -7,7 +7,7 @@ class AddComment extends Component {
         comment: {
             comment: '',
             rate: 1,
-            elementId: this.props.asin
+            elementId: this.props.asin,
         }
     }
 
